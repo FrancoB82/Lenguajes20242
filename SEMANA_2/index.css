@@ -1,0 +1,30 @@
+.border-red{
+    border: solid red;
+}
+
+.border-green{
+    border: solid green;
+    text-align: center;
+}
+
+.border-blue{
+    border: solid blue;
+}
+
+.border-purple{
+    border: solid purple;
+}
+
+.border-black{
+    border: solid black;
+}
+
+.border-brown{
+    border: solid brown;
+}
+
+.border-yellow{
+    border: solid yellow;
+    text-align: center;
+}
+

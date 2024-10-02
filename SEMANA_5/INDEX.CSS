@@ -1,0 +1,36 @@
+.bg-img-mobile{
+    background-image: url("./background-home-mobile.jpg");
+    height: 100vh;
+}
+.t-white{
+    color: white;
+    text-align:center;
+}
+.t-red{
+    color:red
+}
+.nav-flex{
+    display: flex;
+    justify-content: center space-between;
+    align-items: center;
+    padding-block-start: initial 100px;
+    border-top: 240px 240px 240px ;
+}
+.titulo{
+    font-size: 110px;
+    padding-top: 40px;
+}
+.explorediv{
+    display: flex;
+    justify-content: center;
+}
+.explore{
+    height: 140px;
+    width: 140px;
+    background-color: white;
+    text-align: center;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
